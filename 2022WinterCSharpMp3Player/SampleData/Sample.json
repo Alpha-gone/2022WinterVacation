@@ -1,0 +1,14 @@
+{
+  "HOST": "127.0.0.1",
+  "PORT": "1227",
+  "USER": "daelim",
+  "ID": "dluse01",
+  "PASSWORD": "012301234",
+  "ETC": "interface",
+  "DEVICES": [
+    "dev1",
+    "dev2",
+    "dev3",
+    "dev4"
+  ]
+}
